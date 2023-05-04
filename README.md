@@ -1,8 +1,8 @@
-#goofy anticheat
+# goofy antichea
 its a very simpel anti cheat for roblox what can be ez bypass 
 
 
-#how to use
+# how to use
 open roblox studio
 make a place 
 go to StarterCharacterScripts
@@ -12,7 +12,7 @@ save
 then your done
 
 
-
-#add me
+ 
+# add me
 discord callmexdrop#2505
 roblox mrnotfunny_Xp
