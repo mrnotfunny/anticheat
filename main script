@@ -1,0 +1,30 @@
+--most simpel thing you probs seen in your life
+
+
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local Character = LocalPlayer.Character
+local nohacks = ("stop hacking")
+
+
+while wait() do
+	if Character:FindFirstChild("Humanoid").WalkSpeed > 16 then
+		LocalPlayer:Kick(nohacks)
+	end
+
+	if Character:FindFirstChild("Humanoid").JumpHeight > 7.2 then
+		LocalPlayer:Kick(nohacks)
+	end
+
+	if Character:FindFirstChild("Humanoid").Health > 100 then
+		LocalPlayer:Kick(nohacks)
+	end
+
+	if Character:FindFirstChild("Humanoid").MaxHealth > 100 then
+		LocalPlayer:Kick(nohacks)
+	end
+
+	if not Character:FindFirstChild("Humanoid") then
+		LocalPlayer:Kick(nohacks)
+	end
+end
