@@ -1,4 +1,4 @@
-# goofy antichea
+# goofy anticheat
 its a very simpel anti cheat for roblox what can be ez bypass 
 
 
