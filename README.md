@@ -16,3 +16,7 @@ then your done
 # add me
 discord callmexdrop#2505
 roblox mrnotfunny_Xp
+join the discord
+```
+https://discord.gg/r6KMfdzHfR
+```
